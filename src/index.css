@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+input {
+  width: 100%;
+  padding: 10px;
+}
+
+#addButton {
+  width: 50%;
+  padding: 5px;
+}
+
+#deleteButton {
+  padding: 5px;
+}
+
